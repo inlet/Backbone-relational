@@ -2074,4 +2074,6 @@
 
 		return child;
 	};
+
+  return Backbone;
 }));
